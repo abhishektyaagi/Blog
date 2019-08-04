@@ -2,122 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to my webpage. I am Abhishek Tyagi, a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India. Presently we are working towards developing the next generation of face recognition chips to be employed in Samsung's handheld devices.
 
-[Link to another page](./another-page.html).
+My research interest lies in Acceleration of the Neural Networks, with primary focus towards HW/SW Co-Design approach. In my pursuit of getting acquainted with various approaches taken towards hardware accelerators for ML workloads, I have reviewed a few articles and have been keeping their short-summaries (reviews) [here](). 
 
-There should be whitespace between paragraphs.
+# Education Background
+- B.Tech in Electrical Engineering, Delhi Technological University (formerly Delhi College of Engineering)
+  - Graduated with 74.37 % [Ist Class, missed Hons. by 0.6% :( ] with a rank of 21/148 students
+  - Awarded with **Prime Minister's Fellowship** for all 4 years for excellent performance throughout my Undergraduate
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Research Experience
+I have been lucky enough to be part of some great groups over the years:
 
-# Header 1
+- **[Computer Aided Deisgn Laboratory](http://cadl.iisc.ernet.in/cadlab/)**, _Indian Institute of Science(IISc)_, Bengaluru, India (July 2017- June 2019)
+- **[Team CAMUS](http://team.inria.fr/camus/)**, _INRIA_, Strasbourg, France (June 2016 - Aug 2016)
+- **[Advanced Multicore Systems Laboratory](https://www.iiitd.edu.in/noc/)**, _Indraprastha Institute of Information Technology(IIIT)_, Delhi, India (October 2015 - January 2016)
+- **[Texas Instruments - Center for Electronic Design and Technology](http://cedtnsit.in/)**, Delhi, India (December 2014 - January 2015)
+- **VLSI Systems Design Lab**, _Delhi Technological Unviersity_, Delhi, India (June 2014- June 2016)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Research Interests
+- Computer Architecture
+- Hardware Accelerators Design for ML, Graph Processing etc
+- Machine Learning
+- Quantum Computing
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Personal Interests
+- Sports is the 'Thing' to me. A huge Manchester United Fan (#GGMU)
+- Cricket is in the blood. Though, stopped following it much once Sachin Retired.
+- Cars interests me. Desire to learn a bit of circuit racing as a hobby

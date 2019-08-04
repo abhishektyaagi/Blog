@@ -1,6 +1,11 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Abhishek Tyagi
+logo: /assets/img/bio_photo.jpeg
+description: A minimalistic place on the interenet to document my journey through life
+is_user_page: true
+markdown: kramdown
+highlighter: rouge
+twitter_username: _abhishek42
+github_username: abhishek-t-naive
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
