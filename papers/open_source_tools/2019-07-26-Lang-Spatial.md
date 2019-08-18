@@ -5,9 +5,10 @@ layout : default
 
 - _STATED GOALS AND SOLUTIONS_
 
-The authors are trying to tap into the dearth of simulators for developing DNN accelerators which provide a way to prototype ideas and analyze their performance. In the current work, they are considering only Systolic Array based accelerators as majority of the DNN accelerators are based on the Systolic Arraydesign.The authors provide us with a cycle-accurate systolic-array based CNN accelerator simulator, called SCALE-SIM. The authors have showcased the use-case of the said simulator by running applications from MLPerf benchmark and portraying the variation in performance, energy and scalability with different sizes of scratchpad memory, compute-array size etc.
+The aim of the paper is to come up with an efficient way of designing and programming Hardware Accelertors, along with carrying out designspace exploration to settle upon the best possible implementation for an application. To achieve the same, authors have presented Spatial, a new DSL and compiler framework which provides abstractions to program HW similar to HLS but offers control over key elements like Memory Hierarchy. It supports variety of platforms like FPGA, Reconfigurable HW (Plasticine) and C++ simulation  
 
 - _SIGNIFICANT IDEAS_
+... Machine Learning based design space exploration
 
 This is probably the only simulation-emulation platform available out there when it comes to DNN accelerators. It exposes the various microarchitectural parameters to the user to study the interactions between them and the performance of the entire system. Moreover, unlike most of the works in this domain, SCALE-SIM takes into consideration the effects of integrating an accelerator with a simulator and how this is going to have an affect on the performance of the entire system.
 

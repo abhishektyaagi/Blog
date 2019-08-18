@@ -1,10 +1,11 @@
 title: Abhishek Tyagi
 logo: /assets/img/bio_photo.jpeg
-description: A minimalistic place on the interenet to document my journey through life
+description: 
 is_user_page: true
 markdown: kramdown
 highlighter: rouge
 twitter_username: _abhishek42
+linkedin_username: in/abhishek-tyagi-a1873596
 github_username: abhishek-t-naive
 show_downloads: false
 google_analytics:

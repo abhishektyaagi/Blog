@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<script src = "assets/js/test.js"></script>
+<img id = "biophoto" src = "assets/img/bio_photo.jpeg" alt = "Abhishek Tyagi" style = "width: 100px;height:100px;">
+
 Welcome to my webpage. I am Abhishek Tyagi, a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India. Presently we are working towards developing the next generation of face recognition chips to be employed in Samsung's handheld devices.
 
 My research interest lies in Acceleration of the Neural Networks, with primary focus towards HW/SW Co-Design approach. In my pursuit of getting acquainted with various approaches taken towards hardware accelerators for ML workloads, I have reviewed a few articles and have been keeping their short-summaries (reviews) [here](). 
@@ -14,6 +17,7 @@ My research interest lies in Acceleration of the Neural Networks, with primary f
 # Research Experience
 I have been lucky enough to be part of some great groups over the years:
 
+- **[Samsung Research & Development Institute - Bangalore](https://research.samsung.com/sri-b)**, India (July 2019 - Present)
 - **[Computer Aided Deisgn Laboratory](http://cadl.iisc.ernet.in/cadlab/)**, _Indian Institute of Science(IISc)_, Bengaluru, India (July 2017- June 2019)
 - **[Team CAMUS](http://team.inria.fr/camus/)**, _INRIA_, Strasbourg, France (June 2016 - Aug 2016)
 - **[Advanced Multicore Systems Laboratory](https://www.iiitd.edu.in/noc/)**, _Indraprastha Institute of Information Technology(IIIT)_, Delhi, India (October 2015 - January 2016)
@@ -29,4 +33,4 @@ I have been lucky enough to be part of some great groups over the years:
 # Personal Interests
 - Sports is the 'Thing' to me. A huge Manchester United Fan (#GGMU)
 - Cricket is in the blood. Though, stopped following it much once Sachin Retired.
-- Cars interests me. Desire to learn a bit of circuit racing as a hobby
+- Cars interests me. Training for my [FMSCI](http://licence.fmsci.co.in/) license.
