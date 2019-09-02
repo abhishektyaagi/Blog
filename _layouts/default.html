@@ -15,17 +15,20 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-				<p class="view"><a href = "/Blog/index">Home</a></p>
-				<p class="view"><a href = "/Blog/papers/papers_combine">Review of Accelerator Deisgn for ML: Architecture and Tools</a></p>
-				<p class="view"><a href = "/Blog/publications/publications_combine">Publications</a></p>      
-				<p class="view"><a href = "/Blog/projects/projects_combine">Projects</a></p>
-				<p class="view"><a href = "/Blog/online_courses/courses">Certifications</a></p>
-				<p class="view"><a href = "/Blog/goals">Goals(TBA)</a></p>
-				<p class="view"><a href = "/Blog/posts/index">Posts on Medium</a></p>
+				<p class="view"><a href = "/index">Home</a></p>
+				<p class="view"><a href = "/papers/papers_combine">Review of Accelerator Deisgn for ML: Architecture and Tools</a></p>
+				<p class="view"><a href = "/projects/projects_combine">Projects</a></p>
+				<p class="view"><a href = "/faqs/faq">FAQs</a></p>
+				<p class="view"><a href = "/online_courses/courses">Certifications</a></p>
+				<p class="view"><a href = "/goals">Goals</a></p>
+				<p class="view"><a href = "/posts/index">Posts on Medium</a></p>
         
        <!-- p {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}-->
+
+				<script src="https://use.fontawesome.com/c3d5f85194.js"></script>
+				<!--[<i class="fa fa-github"></i> GitHub](https://github.com/curusarn)  -->
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -38,28 +41,25 @@
         {% endif %}
 
 				{% if site.github_username %}
-  			<li>
     		<a href="https://github.com/{{ site.github_username }}">
       	<i class="fa fa-github"></i> Github
     		</a>
-  			</li>
 				{% endif %}
 
+				<br>
 				{% if site.twitter_username %}
-  			<li>
     		<a href="https://twitter.com/{{ site.twitter_username }}">
       	<i class="fa fa-twitter"></i> Twitter
     		</a>
-  			</li>
 				{% endif %}
+				<br>
 
 				{% if site.linkedin_username %}
-  			<li>
     		<a href="https://linkedin.com/{{ site.linkedin_username }}">
       	<i class="fa fa-linkedin"></i> LinkedIn
     		</a>
-  			</li>
 				{% endif %}
+				<br>
 
         {% if site.show_downloads %}
         <ul class="downloads">
