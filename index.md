@@ -11,7 +11,7 @@ My research interest lies in Acceleration of the Neural Networks, with primary f
 
 # Education Background
 - B.Tech in Electrical Engineering, Delhi Technological University (formerly Delhi College of Engineering)
-  - Graduated with 74.37 % [Ist Class, missed Hons. by 0.6% :( ] with a rank of 21/148 students
+  - Graduated with 74.37 % [Ist Class, missed Hons. by 0.6% :( ] with a rank of 19/148 students
   - Awarded with **Prime Minister's Fellowship** for all 4 years for excellent performance throughout my Undergraduate
 
 # Research Experience
