@@ -14,5 +14,5 @@ Collection of some work done towards developing Simulation-Emulation, Performanc
 ## Not CNN Accelerators
 Collection of some work done towards developing accelerators for RNNs, LSTMs etc(Basically anything but CNN accelerators)
 
-1. Learning to Skip Ineffectual Recurrent Computations in LSTMs [[Review](/papers/Not_CNN_Accelerators/2019-09-16-NotCNN-LSTM-WarrenGross.html)]
+1. Learning to Skip Ineffectual Recurrent Computations in LSTMs [[Review](/Blog/papers/Not_CNN_Accelerators/2019-09-16-NotCNN-LSTM-WarrenGross.html)]
 
