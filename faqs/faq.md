@@ -27,9 +27,15 @@ I would like to work as a researcher in my coming years and hence would be inter
 
 The biggest challenge I have faced in all the problems I have dealt with is the inevitable 'trough' in the journey of solving a problem. I remember being stuck in the 'trough' for days where you go in front of your screen but don't have any idea what to try. All that comes to your mind is the same thing that you tried yesterday, day before yesterday and so on. Lately, I have tried to observe how i get out of such troughs and what i have found helfpul is what i call 'No attention days'. For some time I just leave the thing as it is without worrying about whether it will be solved or not. It has worked for now, but I am sure this strategy will require changes as I progress along the lines.
 
-To me, problem solving in general has a great bit to do with the attitude with which you appraoch the task at hand. I have found that to be a successful problem solver (at graduate student, professor, manager, president level etc) persistance and different thinking are the key skills required. I believe that I am yet to get more efficient at both the mentioned skills  (persistence: when to know that a particular direction is dead end, so that you don't waste valuable time of yours; thinking differently: understanding whether a particular solution is feasible or not) and hence would like to put myself in more of such uncomfortable situations.
+To me, problem solving in general has a great bit to do with the attitude with which you appraoch the task at hand. I have found that to be a successful problem solver (at graduate, student, professor, manager, president level etc) persistance and different thinking are the key skills required. I believe that I am yet to get more efficient at both the mentioned skills  (persistence: when to know that a particular direction is dead end, so that you don't waste valuable time of yours; thinking differently: understanding whether a particular solution is feasible or not) and hence would like to put myself in more of such uncomfortable situations.
 
 ### What does your ideal MS/PhD program look like? 
+
+I would take turns to answer this:
+
+MS: Range of courses to offer with freedom to take them ; some amount of focus on providing teaching opportunities; a significant proportion of time dedicated to a project of their own; good relation with the current industrial needs
+
+PhD: Freedom to take courses with much more empahsis on research output; freedom to collaborate; helping in developing quality research generating habits. As the PhD is more about the advisor advisee relationship, list the type of things you need from prof (http://matt.might.net/articles/phd-commandments/)
 
 ### What do you want to acquire from your MS/PhD program? If quantifiable in terms of skills, mention them.
 
