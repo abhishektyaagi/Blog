@@ -31,11 +31,11 @@ To me, problem solving in general has a great bit to do with the attitude with w
 
 ### What does your ideal MS/PhD program look like? 
 
-I would take turns to answer this:
+I would take turns to answer this separately:
 
-MS: Range of courses to offer with freedom to take them ; some amount of focus on providing teaching opportunities; a significant proportion of time dedicated to a project of their own; good relation with the current industrial needs
+MS: An ideal MS program should start off by having an amalgamation of range of courses along with freedom to take them and significant emphasis on research. Other than this, it would be a great plus if there are teachiin opportunites provided to the studentsas it will be a great experience to see the teaching envrionment/setup from the other side. Coupled with all this, the university program should be in accordance with the needs of the industry of present and future. 
 
-PhD: Freedom to take courses with much more empahsis on research output; freedom to collaborate; helping in developing quality research generating habits. As the PhD is more about the advisor advisee relationship, list the type of things you need from prof (http://matt.might.net/articles/phd-commandments/)
+PhD: Even though the aim of a PhD is to focus more on your research, I would still prefer to have a range of courses available to me so as to build a good foundation for the tough journey ahead. If that university has a great structure in place for collaborations across the departments and/or with other universities, it can help a PhD student to broaden their perspective. Freedom to take courses with much more empahsis on research output; freedom to collaborate; helping in developing quality research generating habits. As the PhD is more about the advisor advisee relationship, list the type of things you need from prof (http://matt.might.net/articles/phd-commandments/)
 
 ### What do you want to acquire from your MS/PhD program? If quantifiable in terms of skills, mention them.
 
