@@ -40,3 +40,5 @@ PhD: Even though the aim of a PhD is to focus more on your research, I would sti
 ### What do you want to acquire from your MS/PhD program? If quantifiable in terms of skills, mention them.
 
 ### What do you like to do outside of Science? What fuels your passion?
+
+### How will you describe your academic performance in Undergraduate? Any reasons for not scoring higher?
