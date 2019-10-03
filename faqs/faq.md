@@ -39,6 +39,14 @@ PhD: Even though the aim of a PhD is to focus more on your research, I would sti
 
 ### What do you want to acquire from your MS/PhD program? If quantifiable in terms of skills, mention them.
 
-### What do you like to do outside of Science? What fuels your passion?
+Even though the extent of research done in an MS or PhD program is not comparable, but for me either of the programs should serve a common purpose, which is to help a researcher learn how to do research. This would mean identifying what are the next-big problems in a particular area, knowing when it is time to start on a topic and when to get out of one. This in a nutshell can separate good researchers from the quality ones.
+
+Having worked for over 2.5 years now in Industry and Academia, going back to studying will give me a fresher perspective towards learning. While working you get to understand what elements of your classroom learning are most vital when you are working on real world problems. Going back to studying, I want to make it much more effective and targetted as per my ambitions, strengths and weaknesses
+
+### What do you like to do outside of Science[CHANGE THIS]? What fuels your passion?
+
+As I have grown up over the years I have seen myself inclined towards forming a lifestyle supporting 'Generalism' rather than trying to be a 'Specialist'. I feared it for a while that I am just wasting my time and should focus on absolutely one thing to taste some success. But I have come to favor the strategy of trying to learn different new things irrespective of whether they do or do not complement each other Of course, with a right balance!).
+
+My current ventures include learning French and working on obtaining my FMSCI license so that I can give a shot to my ever lingering desire to drive cars fast and do a hand-brake turn in a slick manner. In future, or as an one of on going efforts I would like to be much more consistent with my writing as I lack sometimes coheiveness in my thoughts.
 
 ### How will you describe your academic performance in Undergraduate? Any reasons for not scoring higher?
