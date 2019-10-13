@@ -7,18 +7,18 @@ I am a believer in the abilities of Massive Open Online Courses (MOOC's) to glob
 ### Divide and Conquer, Sorting and Searching, and Randomized Algorithms 
 (_offered by Stanford University_)
 - **Topics Covered(in order):** Big-oh notation, asymptotic-analysis, Divide-and-Conquer approach,Master method, Quick sort implementation and analysis,Linear time selection, graphs, cuts and contraction algorithm.
-- [[Certification](/assets/certificates/algo.pdf)] [[Grade (96%)](/assets/certificates/algo_grade.jpg)][[github-course-repo]](https://github.com/abhishek-t-naive/Algorithm_Coursera)
+- [[Certification](/Blog/assets/certificates/algo.pdf)] [[Grade (96%)](/Blog/assets/certificates/algo_grade.jpg)][[github-course-repo]](https://github.com/abhishek-t-naive/Algorithm_Coursera)
 
 ### Neural Networks and Deep Learning 
 (_offered by DeepLearning.ai_)
 - **Topics Covered(in order):** Intro to DL, NN Basics, Shallow NNs, DNNs
-- [[Certification](/assets/certificates/NN_DL.pdf)] [[Grade (93.4%)](/assets/certificates/NN_DL_grade.png)]
+- [[Certification](/Blog/assets/certificates/NN_DL.pdf)] [[Grade (93.4%)](/Blog/assets/certificates/NN_DL_grade.png)]
 
 ### Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) 
 (_offered by The Hebrew University of Jerusalem_)
 - **Topics Covered(in order):** Intro, Boolean Functions and Logic Gates, Boolean Arithmetic and ALU, Memory, Machine Language, Computer Architecture
 , Assembler
-- [[Certification](/assets/certificates/NtoT.pdf)] [[Grade (100%)](/assets/certificates/NtoT_grade.png)]
+- [[Certification](/Blog/assets/certificates/NtoT.pdf)] [[Grade (100%)](/Blog/assets/certificates/NtoT_grade.png)]
 
 ### 6.004.2x: Computation Structures 2: Computer Architecture 
 (_offered by MIT_)
@@ -28,14 +28,14 @@ I am a believer in the abilities of Massive Open Online Courses (MOOC's) to glob
 ### 6.004.1x: Computation Structures 2: Digital Circuits 
 (_offered by MIT_)
 - **Topics Covered(in order):**Digital Absraction, CMOS, Combinational Logic, Sequential Logic, FSM, Performance Measures, Design Tradeoffs
-- [[Certification](/assets/certificates/Dig_Cir.pdf)] [Grade (92%)]
+- [[Certification](/Blog/assets/certificates/Dig_Cir.pdf)] [Grade (92%)]
 
 ### 6.002x: Circuits and Electronics
 (_offered by MIT_)
 - **Topics Covered(in order):**Linearity and Superposition, Incremental Analysis, MOSFETS, Small-Signal Analysis, State and Memory, TIme vs Frequencey Domain, OpAmps, Energy and Power
-- [[Certification](/assets/certificates/Cir_Elec.pdf)] [Grade (88.3)%]
+- [[Certification](/Blog/assets/certificates/Cir_Elec.pdf)] [Grade (88.3)%]
 
 ### ColWri2.2x: English Grammar and Essay Writing 
 (_offered by UC Berkeley_)
 - **Topics Covered(in order):**Vocabulary Development, Understanding Tone and Diction, Advanced Process Writing, Advanced Revision, Proofreading and editing.
-- [[Certification](/assets/certificates/Eng_Ess.pdf)] [Grade (81.7)%]
+- [[Certification](/Blog/assets/certificates/Eng_Ess.pdf)] [Grade (81.7)%]
