@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+### LOW COST MINITAURIZED POTETNTIOSTAT FOR BIOSENSING APPLICATION [Team of 2]
+[[Project Description]](https://drive.google.com/file/d/1Zxw2_E28U1UboIZTI2MpFVBjA3mDxrHl/view?usp=sharing)
+
+Point of care diagnostics has been creating a paradigm shift from conventional diagnostics devices in entire clinical & diagnostics treatment community.This project presents a novel approach of using a miniaturized potentiostat (LMP91000) and Arduino board to perform electrochemical deposition of Polyaniline (PANI) on ITO glass electrode and glucose sensing. The LMP91000 with arduino board was reconfigured to perform glucose detection. The electrode were fabricated by immobilizing Glucose Oxidase (GOX) enzyme on aniline deposited electrode (GOX/PANI/ITO). Due to its compact size and high performance, this device will effectively perform biochemical measurement on three electrode system which enables it to be used in point of care diagnosis.
+
 ### Glove Above [Team of 4]
 [[Project Description]](https://2015.spaceappschallenge.org/project/glove-above/?fbclid=IwAR0Q6IObI59ZDQJ3bfFnOE8MOkF9HhEdFOR4d5fk0GUT8-iCenKiyt2kVkQ)[[Demo Video]](https://www.youtube.com/watch?v=pYe77UhBgKg)[[Source Code]]( https://drive.google.com/folderview?id=0B500nQ5c0n5OfnZTZUZLNlExRl85V3ZjcllhUzdpNDFGUlZYanNJcy1kbTIyQUhpNXg0UVU&usp=sharing)
 
