@@ -1,1 +1,7 @@
-[Question 1](/Blog/faqs/faq#First-ques)
+1. [How did you first become interested in research and What aspects of it stands out for you?](/Blog/faqs/faq#q1)
+2. [What did you take back after spending time in different labs and industry?](/Blog/faqs/faq#q2)
+3. [What made you interested in studying the intersection of Machine Learning and Hardware Design?](/Blog/faqs/faq#q3)
+4. [What is your long term goal?](/Blog/faqs/faq#q4)
+5. [What are the challenges you have faced in the short time you have spent in research? How do you go about solving them?](/Blog/faqs/faq#q5)
+6. [What is your long term goal?](/Blog/faqs/faq#q6)
+7. [What does your ideal MS/PhD program look like?](/Blog/faqs/faq#q7)
