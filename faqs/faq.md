@@ -15,9 +15,11 @@ One of the important realizations that I had during my time with differnt mentor
 
 ### <a name="q3"></a>What made you interested in studying the intersection of Machine Learning and Hardware Design?
 
-In my short time working in the domain of computer architecture, I have found myself to be inclined towards Domain Specific architectures rather than working with general purpose computing. I find it quite allruing to work with a specific domain as it allows us to collaborate with peoplel sometimes, totally different from our fields like in the case of DNA sequencing algorithms/architectures where you get to work with people from Biology background.
+In my short time working in the domain of computer architecture, I have found myself to be inclined towards Domain Specific architectures rather than working with general purpose computing. I find it quite allruing to work with a specific domain as it allows you to gain expertise in a number of areas which may or may not be related to your background hence giving an opportunity to expand on your knowledge base. Moreover, there is an opportunity to collaborate with peoplel sometimes, totally different from our fields like in the case of DNA sequencing algorithms/architectures where you get to work with people from Biology background.
 
-With the current trends of AI and machine learning applications, there are numberous research directions (like security, automation etc.) which is being explored by researchers across the globe. These applications are going to play a key and even larger roles in our lives in the coming years and hence I find them really interesting to explore and be a part of thie golden era of computer architects. 
+And the domain in demand right now is that of AI and machine learning. Like most of the other applications of past, being a computer architect puts us in the driving seat to enable the transfer of cool technologies and algorithms to the consumers in an power and cost efficient manner. The notion of not being in the limelight when it comes to the hype AI & ML has achieved in recent times has a 'romantic' side to it, where you just sit back, away from all the noise and see your work improve the life of common people. 
+
+[//]: # (There are numerous research directions like security, automation etc. which is being explored by researchers across the globe. These applications are going to play a key and even larger roles in our lives in the coming years and hence I find them really interesting to explore and be a part of this golden era of computer architects.)
 
 ### <a name="q4"></a>What is your long term goal?
 
