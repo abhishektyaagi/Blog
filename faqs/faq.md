@@ -23,7 +23,7 @@ And the domain in demand right now is that of AI and machine learning. Like most
 
 ### <a name="q4"></a>What is your long term goal?
 
-I would like to work as a researcher in my coming years and hence would be interested in obtaining a PhD to understand the methodology and skills required to undertake challenging problems. Later on, I want to have a team of my own (whether in industry or academia), with people from different backgrounds and skillsetts working towards a common goal. I want to venture the area of entrepnuership as well which will fullfill one of my desires of starting off with your idea and seeing it culminate into something valuable.
+I would like to work as a researcher in my coming years and hence would be interested in obtaining a PhD to understand the methodology and skills required to undertake challenging problems. Later on, I want to have a team of my own (either in industry or academia), with people from different backgrounds and skillsetts working towards a common goal. I want to venture the area of entrepnuership as well which will fullfill one of my desires of starting off with your idea and seeing it culminate into something valuable.
 
 ### <a name="q5"></a>What are the challenges you have faced in the short time you have spent in research? How do you go about solving them?
 
