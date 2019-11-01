@@ -47,9 +47,11 @@ Having worked for over 2.5 years now in Industry and Academia, going back to stu
 
 ### <a name="q8"></a>What do you like to do outside of Science[CHANGE THIS]? What fuels your passion?
 
-As I have grown up over the years I have seen myself inclined towards forming a lifestyle supporting 'Generalism' rather than trying to be a 'Specialist'. I feared it for a while that I am just wasting my time and should focus on absolutely one thing to taste some success. But I have come to favor the strategy of trying to learn different new things irrespective of whether they do or do not complement each other Of course, with a right balance!).
+Growing up over the years I have seen myself inclined towards forming a lifestyle supporting 'Generalism' rather than trying to be a 'Specialist'. I feared it for a while that I am just wasting my time and should focus on absolutely one thing to taste some success. But I have come to favor the strategy of trying to learn different new things irrespective of whether they do or do not complement each other (Of course, with a right balance!). It does not mean that I don't like sticking to one thing, rather I played Cricket for over 5 years and represented my High School in Zonals. But because of trying out new things I have been able to learn to play Table Tennis and Foosball in the last 6 months expanding my skill-set.
 
 My current ventures include learning French and working on obtaining my FMSCI license so that I can give a shot to my ever lingering desire to drive cars fast and do a hand-brake turn in a slick manner. In future, or as an one of on going efforts I would like to be much more consistent with my writing as I lack sometimes coheiveness in my thoughts.
+
+P.S: If you want to know more about 'Generalism' vs 'Specialism', Tim Ferris has a podcas on that. You can check that out [here](https://podbay.fm/podcast/863897795/e/1405710085)
 
 ### <a name="q9"></a>How will you describe your academic performance in Undergraduate? Any reasons for not scoring higher?
 
