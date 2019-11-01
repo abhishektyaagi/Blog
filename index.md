@@ -3,6 +3,8 @@ layout: default
 ---
 
 <script src = "assets/js/test.js"></script>
+<script src="/pace/pace.js"></script>
+<link href="/pace/themes/blue/pace-theme-barber-shop.css" rel="stylesheet" />
 <img id = "biophoto" src = "assets/img/bio_photo.jpeg" alt = "Abhishek Tyagi" style = "width: 100px;height:100px;">
 
 Welcome to my webpage. I am Abhishek Tyagi, a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India. Presently we are working towards developing the next generation of face recognition chips to be employed in Samsung's handheld devices.
