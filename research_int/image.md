@@ -1,2 +1,2 @@
-![Alt text](/Blog/assets/img/image.svg)
-<img src="/Blog/assets/img/image.svg">
+![Alt text](/assets/img/image.svg)
+<img src="/assets/img/image.svg">
