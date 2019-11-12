@@ -27,6 +27,8 @@ I have been lucky enough to be part of some great groups over the years:
 - **VLSI Systems Design Lab**, _Delhi Technological Unviersity_, Delhi, India (June 2014- June 2016)
 
 # Research Interests
+
+(For a graphical representation of my experiences across system stack and my potential research direction click **[here]()
 - Computer Architecture
 - Hardware Accelerators Design for ML, Graph Processing etc
 - Machine Learning
