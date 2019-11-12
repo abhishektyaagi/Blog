@@ -28,7 +28,7 @@ I have been lucky enough to be part of some great groups over the years:
 
 # Research Interests
 
-(For a graphical representation of my experiences across system stack and my potential research direction click **[here](/research_int/image.md)**
+(For a graphical representation of my experiences across system stack and my potential research direction click **[here](/research_int/image)**
 - Computer Architecture
 - Hardware Accelerators Design for ML, Graph Processing etc
 - Machine Learning
