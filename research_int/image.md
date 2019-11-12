@@ -1,1 +1,2 @@
-<img id = "res_int" src = "assets/img/Refined_Research Interest (4).svg" alt = "interest" style = "width: 210px;height:297apx;">
+![Alt text](/Blog/assets/image/Refined_Research Interest (4).svg)
+<img src="/Blog/assets/image/Refined_Research Interest (4).svg">
