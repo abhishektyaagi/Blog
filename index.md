@@ -27,13 +27,9 @@ I have been lucky enough to be part of some great groups over the years:
 - **VLSI Systems Design Lab**, _Delhi Technological Unviersity_, Delhi, India (June 2014- June 2016)
 
 # Research Interests
-
-(For a graphical representation of my experiences across system stack and my potential research direction click **[here](/research_int/image)**
+**Computer Architecture; Hardware Accelerators Design for ML,Graph Processing etc; Machine Learning; Quantum Computing**
 ![Alt_text](/assets/img/Refined_Research Interest.pdf))
-- Computer Architecture
-- Hardware Accelerators Design for ML, Graph Processing etc
-- Machine Learning
-- Quantum Computing
+
 
 # Personal Interests
 - Sports is the 'Thing' to me. A huge Manchester United Fan (#GGMU)
