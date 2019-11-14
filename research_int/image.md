@@ -1,1 +1,1 @@
-![Alt text](/assets/img/image.svg)
+![Alt text](/Blog/assets/img/image.svg)
