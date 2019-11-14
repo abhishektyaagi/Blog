@@ -28,7 +28,7 @@ I have been lucky enough to be part of some great groups over the years:
 
 # Research Interests
 **Computer Architecture; Hardware Accelerators Design for ML,Graph Processing etc; Machine Learning; Quantum Computing**
-![Alt_text](/assets/img/Refined_Research Interest.pdf))
+![Alt_text](/assets/img/image.svg))
 
 
 # Personal Interests
