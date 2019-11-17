@@ -5,6 +5,7 @@ is_user_page: true
 markdown: kramdown
 highlighter: rouge
 twitter_username: _abhishek42
+stackoverflow_username: abhishek-tyagi
 linkedin_username: in/abhishek-tyagi-a1873596
 github_username: abhishek-t-naive
 show_downloads: false
