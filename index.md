@@ -26,10 +26,9 @@ I have been lucky enough to be part of some great groups over the years:
 - **[Texas Instruments - Center for Electronic Design and Technology](http://cedtnsit.in/)**, Delhi, India (December 2014 - January 2015)
 - **VLSI Systems Design Lab**, _Delhi Technological Unviersity_, Delhi, India (June 2014- June 2016)
 
-[//]: <> (<a name="rt"></a>Research Interests
+[//]: # "<a name="rt"></a>Research Interests
 **Computer Architecture; Hardware Accelerators Design for ML,Graph Processing; Machine Learning; Quantum Computing**
-
-![Alt_text](/assets/img/image.svg))
+![Alt_text](/assets/img/image.svg)"
 
 
 # Personal Interests
