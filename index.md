@@ -9,7 +9,7 @@ layout: default
 
 Welcome to my webpage. I am Abhishek Tyagi, a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India. Presently we are working towards developing the next generation of face recognition chips to be employed in Samsung's handheld devices.
 
-My research interest lies in Acceleration of the Neural Networks, with primary focus towards HW/SW Co-Design approach. In my pursuit of getting acquainted with various approaches taken towards hardware accelerators for ML workloads, I have reviewed a few articles and have been keeping their short-summaries (reviews) [here](/papers/papers_combine). 
+My research interest lies in Acceleration of the Neural Networks, with primary focus towards HW/SW Co-Design approach. In my pursuit of getting acquainted with various approaches taken towards hardware accelerators for ML workloads, I have reviewed a few articles and have been keeping their short-summaries (reviews) [here](/Blog/papers/papers_combine). 
 
 # Education Background
 - B.Tech in Electrical Engineering, Delhi Technological University (formerly Delhi College of Engineering)
