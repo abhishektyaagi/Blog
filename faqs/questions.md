@@ -5,5 +5,5 @@
 5. [What are the challenges you have faced in the short time you have spent in research? How do you go about solving them?](/Blog/faqs/faq#q5)
 6. [What does your ideal MS/PhD program look like?](/Blog/faqs/faq#q6)
 7. [What do you want to acquire from your MS/PhD program? If quantifiable in terms of skills, mention them.](/Blog/faqs/faq#q7)
-8. [What do you like to do outside of Science CHANGE THIS? What fuels your passion?](/Blog/faqs/faq#q8)
+8. [What do you like to do outside of Science? What fuels your passion?](/Blog/faqs/faq#q8)
 9. [How will you describe your academic performance in Undergraduate? Any reasons for not scoring higher?.](/Blog/faqs/faq#q9)
