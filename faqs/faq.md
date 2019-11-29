@@ -45,7 +45,7 @@ Even though the extent of research done in an MS or PhD program is not comparabl
 
 Having worked for over 2.5 years now in Industry and Academia, going back to studying will give me a fresher perspective towards learning. While working you get to understand what elements of your classroom learning are most vital when you are solving real world problems. On going back to studying, I want to make it much more effective and targetted as per my ambitions, strengths and weaknesses
 
-### <a name="q8"></a>What do you like to do outside of Science[CHANGE THIS]? What fuels your passion?
+### <a name="q8"></a>What do you like to do outside of Science? What fuels your passion?
 
 Growing up over the years I have seen myself inclined towards forming a lifestyle supporting 'Generalism' rather than trying to be a 'Specialist'. I feared it for a while that I am just wasting my time and should focus on absolutely one thing to taste some success. But I have come to favor the strategy of trying to learn different new things irrespective of whether they do or do not complement each other (Of course, with a right balance!). It does not mean that I don't like sticking to one thing, rather I played Cricket for over 5 years and represented my High School in Zonals. But because of trying out new things I have been able to learn to play Table Tennis and Foosball in the last 6 months expanding my skill-set.
 
