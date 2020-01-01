@@ -5,11 +5,11 @@ layout: default
 <script src = "assets/js/test.js"></script>
 <script src="/pace/pace.js"></script>
 <link href="/pace/themes/blue/pace-theme-barber-shop.css" rel="stylesheet" />
-<img id = "biophoto" src = "assets/img/bio_photo.jpeg" alt = "Abhishek Tyagi" style = "width: 100px;height:100px;">
+<img id = "biophoto" src = "assets/img/bio_photo.jpeg" alt = "Abhishek Tyagi" style = "width: 75px;height:75px;">
 
-Welcome to my webpage. I am Abhishek Tyagi, a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India. Presently we are working towards developing the next generation of face recognition chips to be employed in Samsung's handheld devices.
+Welcome to my webpage. My name is Abhishek Tyagi. I am a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India. Presently we are working towards developing the next generation of face recognition chips to be employed in Samsung's handheld devices.
 
-My research interest lies in Acceleration of the Neural Networks, with primary focus towards HW/SW Co-Design approach. In my pursuit of getting acquainted with various approaches taken towards hardware accelerators for ML workloads, I have reviewed a few articles and have been keeping their short-summaries (reviews) [here](/Blog/papers/papers_combine). 
+My [research interest](/Blog/research_int/Refined_Research Interest.html) lies in Computer Architecture with current emphasis on designing efficient systems for emerging applications like Deep Neural Networks, Genomic Sequencing etc. In my pursuit of getting acquainted with various approaches taken towards hardware accelerators for machine learning workloads, I have reviewed a few articles and have been keeping their short-summaries (reviews) [here](/Blog/papers/papers_combine). 
 
 # Education Background
 - B.Tech in Electrical Engineering, Delhi Technological University (formerly Delhi College of Engineering)
@@ -32,6 +32,5 @@ I have been lucky enough to be part of some great groups over the years:
 
 
 # Personal Interests
-- Sports is the 'Thing' to me. A huge Manchester United Fan (#GGMU)
-- Cricket is in the blood. Though, stopped following it much once Sachin Retired.
+- Sports is a big part of my life. A huge Manchester United Fan (#GGMU)
 - Cars interests me. Training for my [FMSCI](http://licence.fmsci.co.in/) license.
