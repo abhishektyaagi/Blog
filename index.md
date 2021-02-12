@@ -7,12 +7,12 @@ layout: default
 <link href="/pace/themes/blue/pace-theme-barber-shop.css" rel="stylesheet" />
 <img id = "biophoto" src = "assets/img/bio_photo.jpeg" alt = "Abhishek Tyagi" style = "width: 75px;height:75px;">
 
-Welcome to my webpage. My name is Abhishek Tyagi. I am a First Year CS Grad student at Univeristy of Rochester. I was previously a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India.
+Welcome to my webpage. My name is Abhishek Tyagi. I am a First Year CS PhD student at the Univeristy of Rochester. I was previously a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India.
 
 My [research interest](/Blog/research_int/Refined_Research Interest.html) lies in Computer Architecture with current emphasis on designing efficient systems for emerging applications like Deep Neural Networks, Genomic Sequencing etc. In my pursuit of getting acquainted with various approaches taken towards hardware accelerators for machine learning workloads, I have reviewed a few articles and have been keeping their short-summaries (reviews) [here](/Blog/papers/papers_combine). 
 
 # Education Background
--PhD Student in Computer Science at University of Rochester (Jan 2021 - Present)
+-PhD Student in Computer Science at the University of Rochester (Jan 2021 - Present)
 - B.Tech in Electrical Engineering, Delhi Technological University (formerly Delhi College of Engineering) (Aug 2013 - May 2017)
   - Graduated with 74.37 % [Ist Class, missed Hons. by 0.6% :( ] with a rank of 19/148 students
   - Awarded **Prime Minister's Fellowship** for all 4 years for excellent performance throughout my Undergraduate
