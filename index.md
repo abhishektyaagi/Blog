@@ -11,6 +11,8 @@ Welcome to my webpage. My name is Abhishek Tyagi. I am a First Year CS PhD stude
 
 My [research interest](/Blog/research_int/Refined_Research Interest.html) lies in Computer Architecture with current emphasis on designing efficient systems for emerging applications like Deep Neural Networks, Genomic Sequencing etc. In my pursuit of getting acquainted with various approaches taken towards hardware accelerators for machine learning workloads, I have reviewed a few articles and have been keeping their short-summaries (reviews) [here](/Blog/papers/papers_combine). 
 
+You can find my CV [here](https://drive.google.com/file/d/1bkYOe5VFJ7Pntmh2QO5YDnuD6rYPlXiQ/view?usp=sharing)(last updated: Jun 2020)
+
 # Education Background
 -PhD Student in Computer Science at the University of Rochester (Jan 2021 - Present)
 - B.Tech in Electrical Engineering, Delhi Technological University (formerly Delhi College of Engineering) (Aug 2013 - May 2017)
