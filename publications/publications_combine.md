@@ -5,7 +5,7 @@ layout: default
 #### -> Architecture of a Software Defined, Hardware Customizable Tensor Core, for Deep Neural Networks 
 T Sumana, Abhishek Tyagi, Madhava Krishna Chembati, Makesh Tarun Chandran, Ranjani Narayan and S K Nandy.
 
-[Design Automation Conference 2020][Draft can be provided on demand]
+[Submitted to Design Automation Conference 2022][Draft can be provided on demand]
 
 **Keywords**: Deep Neural Network Accelerator, CGRA, Tensor Processing Core, Custom Functional Unit, Software Defined Hardware
 
